@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="dingxinyao:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/dingxinyao_war_exploded2</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="dingxinyao/web/Web" />
+    </root>
+  </artifact>
+</component>
